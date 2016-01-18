@@ -184,7 +184,6 @@ int main()
 				fout << 'M';
 			if (aux == 7)
 				fout << '@';
-			//fout << (char)aux << " ";
 		}
 		fout << endl;
 	}
